@@ -17,4 +17,4 @@ A responsive portfolio website showcasing my skills, projects and contact inform
 (Paste your GitHub Pages link here)
 
 ## Author
-Roshni Yadav
+Ayushi Yadav
